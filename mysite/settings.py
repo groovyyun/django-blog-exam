@@ -25,7 +25,7 @@ SECRET_KEY = 'g6$$rs-_@jo*yzxr@*$m9h)4!$7xwn&fzl%_+j58b@ic0%87u#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['groovyyun.pythonanywhere.com']
 
 
 # Application definition
